@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客发布Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论与学习</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 14:15:50 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>B站高中课程，网课老师自学推荐</title><link>https://shadown7z.github.io/post/B-zhan-gao-zhong-ke-cheng-%EF%BC%8C-wang-ke-lao-shi-zi-xue-tui-jian.html</link><description>B站高中所有科目老师网课推荐:
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客发布Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论与学习</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Tue, 06 Jan 2026 14:24:04 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>如何去学习一门新的学科</title><link>https://shadown7z.github.io/post/ru-he-qu-xue-xi-yi-men-xin-de-xue-ke.html</link><description>如何去学习一门新的学科?
+学之前先问自己三个问题：
+
+**1.这个学科要解决什么问题？
+2.前人是用什么工具解决的？
+3.这些工具的本质是什么**
+比如学英语，问题是沟通，工具是单词和语法，这些工具的本质是语言的底层逻辑
+![Image](https://github.com/user-attachments/assets/22f6b7dc-9bf4-4280-9303-c3534fe7d051)
+![Image](https://github.com/user-attachments/assets/ea17aeed-6ad8-4289-a584-47b5e2e2666a)
+
+总体的步骤：
+一、学习这个学科前上面的的三问
+二、费曼学习法
+每学一个新理论，假装向一个12岁的小孩解释。</description><guid isPermaLink="true">https://shadown7z.github.io/post/ru-he-qu-xue-xi-yi-men-xin-de-xue-ke.html</guid><pubDate>Tue, 06 Jan 2026 14:22:10 +0000</pubDate></item><item><title>B站高中课程，网课老师自学推荐</title><link>https://shadown7z.github.io/post/B-zhan-gao-zhong-ke-cheng-%EF%BC%8C-wang-ke-lao-shi-zi-xue-tui-jian.html</link><description>B站高中所有科目老师网课推荐:
 
 语文:
 学过石油的语文老师

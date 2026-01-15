@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客发布Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论与学习，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Wed, 14 Jan 2026 06:22:37 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>Plan for 2026</title><link>https://shadown7z.github.io/post/Plan%20for%202026.html</link><description>### 2026年的计划
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客发布Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论与学习，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Thu, 15 Jan 2026 11:37:00 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>录屏软件推荐</title><link>https://shadown7z.github.io/post/lu-ping-ruan-jian-tui-jian.html</link><description>推荐几个实用的录屏软件：
+
+1.Cap
+Github开源的一个录屏软件项目，界面简洁欸，UI比较好，最重要的是它免费！
+https://github.com/CapSoftware/Cap
+上面是它的github开源的地址
+
+2.Bandicam
+老牌的录屏软件，这软件好像十年前就在了，之前用过，现在也在用，也是非常的好用
+就算需要付费。</description><guid isPermaLink="true">https://shadown7z.github.io/post/lu-ping-ruan-jian-tui-jian.html</guid><pubDate>Thu, 15 Jan 2026 11:36:31 +0000</pubDate></item><item><title>Plan for 2026</title><link>https://shadown7z.github.io/post/Plan%20for%202026.html</link><description>### 2026年的计划
 - [ ] 跑一次马拉松
 - [ ] 学习高等数学
 - [ ] 2026年上半年的自考本4科（高数、英语、马克思、近现代史）全部及格

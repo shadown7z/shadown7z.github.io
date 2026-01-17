@@ -15,9 +15,11 @@ https://www.bilibili.com/video/BV1rJ411k7QM/?share_source=copy_web&vd_source=6d7
 【10个小技巧快速上手OneNote】 https://www.bilibili.com/video/BV1r441127pT/?share_source=copy_web&vd_source=6d7c148a7dc793235e5c6b8a51b3d489
 
 **夸克网盘下载地址**
+OneNote下载：
+https://pan.baidu.com/s/1HXaR7kpeUTh2LmojVi4Hbg?pwd=0919
 Office2016下载：
 https://pan.quark.cn/s/3d347b6e256a
-OneNote插件-自动生成目录：
+OneNote插件：
 链接：https://pan.quark.cn/s/fad410f27a12
 提取码：Gsda
 

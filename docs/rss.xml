@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Sun, 18 Jan 2026 03:16:19 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>四项重装系统必做的备份</title><link>https://shadown7z.github.io/post/si-xiang-zhong-zhuang-xi-tong-bi-zuo-de-bei-fen.html</link><description>因为之前在电脑上什么都装，所以致使现在电脑卡卡的，有时候会蓝屏崩溃，于是乎实在受不了了决定重装一下系统。</description><guid isPermaLink="true">https://shadown7z.github.io/post/si-xiang-zhong-zhuang-xi-tong-bi-zuo-de-bei-fen.html</guid><pubDate>Sun, 18 Jan 2026 03:15:50 +0000</pubDate></item><item><title>OneNote笔记软件教程</title><link>https://shadown7z.github.io/post/OneNote-bi-ji-ruan-jian-jiao-cheng.html</link><description># OneNote笔记软件教程
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Sun, 18 Jan 2026 03:31:46 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>分享一个比较好用的重装系统软件微PE工具箱</title><link>https://shadown7z.github.io/post/fen-xiang-yi-ge-bi-jiao-hao-yong-de-zhong-zhuang-xi-tong-ruan-jian-wei-PE-gong-ju-xiang.html</link><description># 分享一个比较好用的重装系统软件微PE工具箱
+**进入下载的官网：**
+https://www.wepe.com.cn/download.html
+
+&lt;img width='1920' height='991' alt='Image' src='https://github.com/user-attachments/assets/db854803-21e5-4b5a-888a-92192a5168f4' /&gt;
+
+---
+
+**点击下载，点击先不捐赠，我们这里演示下载v2.3版本：**
+
+&lt;img width='1004' height='775' alt='Image' src='https://github.com/user-attachments/assets/99cf7f22-212a-4ece-beec-5f482ccb0208' /&gt;
+
+&lt;img width='890' height='478' alt='Image' src='https://github.com/user-attachments/assets/6795d594-4a83-435f-86f3-0addcabc3e65' /&gt;
+
+**点击64位下载后，就会自动给我们进行下载：**
+
+&lt;img width='914' height='228' alt='Image' src='https://github.com/user-attachments/assets/7f404d3c-fa84-4e7c-b550-3a5ae8838eb7' /&gt;
+
+---
+
+**软件教程可以去B站寻找相关：**
+【制作微PE系统安装盘-安装Windows官方纯净系统+永久激活Windows、永久激活office】 
+https://www.bilibili.com/video/BV1PBSpB8E4t/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489。</description><guid isPermaLink="true">https://shadown7z.github.io/post/fen-xiang-yi-ge-bi-jiao-hao-yong-de-zhong-zhuang-xi-tong-ruan-jian-wei-PE-gong-ju-xiang.html</guid><pubDate>Sun, 18 Jan 2026 03:31:19 +0000</pubDate></item><item><title>四项重装系统必做的备份</title><link>https://shadown7z.github.io/post/si-xiang-zhong-zhuang-xi-tong-bi-zuo-de-bei-fen.html</link><description>因为之前在电脑上什么都装，所以致使现在电脑卡卡的，有时候会蓝屏崩溃，于是乎实在受不了了决定重装一下系统。</description><guid isPermaLink="true">https://shadown7z.github.io/post/si-xiang-zhong-zhuang-xi-tong-bi-zuo-de-bei-fen.html</guid><pubDate>Sun, 18 Jan 2026 03:15:50 +0000</pubDate></item><item><title>OneNote笔记软件教程</title><link>https://shadown7z.github.io/post/OneNote-bi-ji-ruan-jian-jiao-cheng.html</link><description># OneNote笔记软件教程
 对标B站教程：
 【【OneNote教学】这可能是你见过的最全的OneNote教学视频了|完全合并版】 
 https://www.bilibili.com/video/BV1rJ411k7QM/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489

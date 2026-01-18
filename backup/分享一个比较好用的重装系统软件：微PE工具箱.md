@@ -21,5 +21,3 @@ https://www.wepe.com.cn/download.html
 **软件教程可以去B站寻找相关：**
 【制作微PE系统安装盘-安装Windows官方纯净系统+永久激活Windows、永久激活office】 
 https://www.bilibili.com/video/BV1PBSpB8E4t/?share_source=copy_web&vd_source=6d7c148a7dc793235e5c6b8a51b3d489
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115648386637436&bvid=BV1PBSpB8E4t&cid=34438382538&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

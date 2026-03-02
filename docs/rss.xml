@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Sun, 01 Mar 2026 04:43:26 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>月/周总结的模板</title><link>https://shadown7z.github.io/post/yue---zhou-zong-jie-de-mo-ban.html</link><description>### 月总结模板:
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Mon, 02 Mar 2026 02:33:55 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>月/周总结的模板</title><link>https://shadown7z.github.io/post/yue---zhou-zong-jie-de-mo-ban.html</link><description>### 月总结模板:
 
 **上个月你准备做什么:**
 - [ ] 1
@@ -180,6 +180,14 @@ https://github.com/CapSoftware/Cap
 - [ ] 学习伪音
 - [ ] 学习播音
 - [ ] 学习唱歌
+- [ ] LeetCode解题数过50
+- [ ] LeetCode解题数过100
+- [ ] LeetCode解题数过200
+- [ ] LeetCode解题数过400
+- [ ] LeetCode解题数过800
+- [ ] LeetCode解题数过1000
+- [ ] LeetCode解题数过2000
+- [ ] LeetCode解题数过4000
 - [ ] 以上的所有全部完成或在2026年年末，列出2027年的计划
 - [ ] 其他：学习嵌入式开发、学习Winhex、学习德语、学习俄语、复刻github开源项目xlerobot。</description><guid isPermaLink="true">https://shadown7z.github.io/post/Plan%20for%202026.html</guid><pubDate>Wed, 14 Jan 2026 06:21:52 +0000</pubDate></item><item><title>无聊才能让你的人生有意义</title><link>https://shadown7z.github.io/post/wu-liao-cai-neng-rang-ni-de-ren-sheng-you-yi-yi.html</link><description>### 无聊才能让你的人生有意义
 来自哈佛大学心理学教授Dr. Arthur Brooks的Youtube视频：https://youtu.be/orQKfIXMiA8?si=s38E0IvT06GDCSP7

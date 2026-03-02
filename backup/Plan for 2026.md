@@ -49,5 +49,7 @@
 - [ ] LeetCode解题数过1000
 - [ ] LeetCode解题数过2000
 - [ ] LeetCode解题数过4000
+- [ ] 刷一遍LeetCode热题HOT 100
+- [ ] 二刷一遍LeetCode热题HOT 100
 - [ ] 以上的所有全部完成或在2026年年末，列出2027年的计划
 - [ ] 其他：学习嵌入式开发、学习Winhex、学习德语、学习俄语、复刻github开源项目xlerobot

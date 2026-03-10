@@ -35,6 +35,7 @@
 - [ ] 学习汇编语言
 - [ ] 学习Winhex
 - [ ] CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过50篇
+- [ ] CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过100篇
 - [ ] 学习英语词根
 - [ ] 学习英语词缀（前后缀）
 - [ ] 学习英语
@@ -53,5 +54,7 @@
 - [ ] LeetCode解题数过4000
 - [ ] 刷一遍LeetCode热题HOT 100
 - [ ] 二刷一遍LeetCode热题HOT 100
+- [ ] 拥有一个Github几千的和人工智能或算法相关的高star项目
+- [ ] 参加Kaggle、CodeforcesRound（CF）、AtCoder、Tianchi等算法比赛获得不错的名次
 - [ ] 以上的所有全部完成或在2026年年末，列出2027年的计划
 - [ ] 其他：学习嵌入式开发、学习德语、学习俄语、复刻github开源项目xlerobot

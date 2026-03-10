@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Tue, 10 Mar 2026 14:22:21 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>月/周总结的模板</title><link>https://shadown7z.github.io/post/yue---zhou-zong-jie-de-mo-ban.html</link><description>### 月总结模板:
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Tue, 10 Mar 2026 14:33:20 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>月/周总结的模板</title><link>https://shadown7z.github.io/post/yue---zhou-zong-jie-de-mo-ban.html</link><description>### 月总结模板:
 
 **上个月你准备做什么:**
 - [ ] 1
@@ -139,9 +139,9 @@ https://github.com/CapSoftware/Cap
 老牌的录屏软件，这软件好像十年前就在了，之前用过，现在也在用，也是非常的好用
 就算需要付费。</description><guid isPermaLink="true">https://shadown7z.github.io/post/lu-ping-ruan-jian-tui-jian.html</guid><pubDate>Thu, 15 Jan 2026 11:36:31 +0000</pubDate></item><item><title>Plan for 2026</title><link>https://shadown7z.github.io/post/Plan%20for%202026.html</link><description>### 2026年的计划
 - [ ] 跑一次马拉松
-- [ ] 学习高等数学
-- [ ] 2026年上半年的自考本4科（高数、英语、马克思、近现代史）全部及格
-- [ ] 2026年下八年的自考本4科全部及格
+- [ ] ！学习高等数学
+- [ ] ！2026年上半年的自考本4科（高数、英语、马克思、近现代史）全部及格
+- [ ] ！2026年下八年的自考本4科全部及格
 - [x] 学习教育心理学
 - [ ] 学习NLP执行师的内容
 - [ ] 学习NLP高级执行师的内容
@@ -161,10 +161,10 @@ https://github.com/CapSoftware/Cap
 - [ ] 精通Java开发
 - [ ] 重新学习大数据技术
 - [ ] 学习Python爬虫
-- [ ] 学习离散数学
-- [ ] 学习线性代数
-- [ ] 学习概率论与统计
-- [ ] 学习Python人工智能
+- [ ] ！学习离散数学
+- [ ] ！学习线性代数
+- [ ] ！学习概率论与统计
+- [ ] ！学习Python人工智能
 - [ ] 学习Python大数据技术
 - [ ] 学习云计算运维
 - [ ] 学习网络技术
@@ -173,13 +173,13 @@ https://github.com/CapSoftware/Cap
 - [ ] 学习PySide6
 - [ ] 学习汇编语言
 - [ ] 学习Winhex
-- [ ] CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过50篇
-- [ ] CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过100篇
+- [ ] ！CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过50篇
+- [ ] ！CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过100篇
 - [ ] 学习英语词根
 - [ ] 学习英语词缀（前后缀）
 - [ ] 学习英语
 - [ ] 2026年上半年四级600分或以上
-- [ ] 英语词汇量破1万（默默背单词）
+- [ ] ！英语词汇量破1万（默默背单词）
 - [ ] 练汉字
 - [ ] 练英文字
 - [ ] 学习配音
@@ -189,12 +189,12 @@ https://github.com/CapSoftware/Cap
 - [ ] 学习魔术
 - [ ] 学习PS
 - [ ] 学习数学竞赛相关的内容，并查找往年的比赛题目进行练习
-- [ ] LeetCode解题数过2000
-- [ ] LeetCode解题数过4000
-- [ ] 刷一遍LeetCode热题HOT 100
-- [ ] 二刷一遍LeetCode热题HOT 100
-- [ ] 拥有一个Github几千的和人工智能或算法相关的高star项目
-- [ ] 参加Kaggle、CodeforcesRound（CF）、AtCoder、Tianchi等算法比赛获得不错的名次
+- [ ] ！LeetCode解题数过2000
+- [ ] ！LeetCode解题数过4000
+- [ ] ！刷一遍LeetCode热题HOT 100
+- [ ] ！二刷一遍LeetCode热题HOT 100
+- [ ] ！拥有一个Github几千的和人工智能或算法相关的高star项目
+- [ ] ！参加Kaggle、CodeforcesRound（CF）、AtCoder、Tianchi等算法比赛获得不错的名次
 - [ ] 以上的所有全部完成或在2026年年末，列出2027年的计划
 - [ ] 其他：学习嵌入式开发、学习德语、学习俄语、复刻github开源项目xlerobot。</description><guid isPermaLink="true">https://shadown7z.github.io/post/Plan%20for%202026.html</guid><pubDate>Wed, 14 Jan 2026 06:21:52 +0000</pubDate></item><item><title>无聊才能让你的人生有意义</title><link>https://shadown7z.github.io/post/wu-liao-cai-neng-rang-ni-de-ren-sheng-you-yi-yi.html</link><description>### 无聊才能让你的人生有意义
 来自哈佛大学心理学教授Dr. Arthur Brooks的Youtube视频：https://youtu.be/orQKfIXMiA8?si=s38E0IvT06GDCSP7

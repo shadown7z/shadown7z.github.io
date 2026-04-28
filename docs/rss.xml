@@ -1,2 +1,303 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:27:20 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Shadown7z的博客</title><link>https://shadown7z.github.io</link><description>该博客会发布一些Java、Python、AI、网络安全、软件逆向、游戏逆向等相关技术的讨论，有时也会分享一些其他的知识与学习方法</description><copyright>Shadown7z的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/157264229?v=4</url><title>avatar</title><link>https://shadown7z.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:52:32 +0000</lastBuildDate><managingEditor>Shadown7z的博客</managingEditor><ttl>60</ttl><webMaster>Shadown7z的博客</webMaster><item><title>月/周总结的模板</title><link>https://shadown7z.github.io/post/yue---zhou-zong-jie-de-mo-ban.html</link><description>### 月总结模板:
+
+**上个月你准备做什么:**
+- [ ] 1
+
+**是否完成了:**
+
+**如果没有完成，原因是什么:**
+
+**下一步你准备怎么改善:**
+
+**这个月你准备做什么:**
+
+- [ ] 1
+
+**留言:**
+
+**下次应提交时间:**
+---
+### 周总结模板:
+
+**上周你准备做什么:**
+
+- [ ] 2
+
+**是否完成了:**
+
+**如果没有完成，原因是什么:**
+
+**下一步你准备怎么改善:**
+
+**这周你准备做什么:**
+- [ ] 2
+
+**留言:**
+
+**下次应提交时间:**。</description><guid isPermaLink="true">https://shadown7z.github.io/post/yue---zhou-zong-jie-de-mo-ban.html</guid><pubDate>Mon, 02 Feb 2026 06:51:53 +0000</pubDate></item><item><title>如何在一天里修正你的所有生活</title><link>https://shadown7z.github.io/post/ru-he-zai-yi-tian-li-xiu-zheng-ni-de-suo-you-sheng-huo.html</link><description># 如何在一天里修正你的所有生活
+在抖音刷到的一篇来自推特的推文：
+https://x.com/i/status/2010751592346030461
+
+我感觉这里面的有些东西还挺实用，其实这篇文章主要写的是你该如何坚持的去做一件事。</description><guid isPermaLink="true">https://shadown7z.github.io/post/ru-he-zai-yi-tian-li-xiu-zheng-ni-de-suo-you-sheng-huo.html</guid><pubDate>Wed, 28 Jan 2026 13:21:30 +0000</pubDate></item><item><title>百度网盘去除右键的多余选项</title><link>https://shadown7z.github.io/post/bai-du-wang-pan-qu-chu-you-jian-de-duo-yu-xuan-xiang.html</link><description>## 去除百度网盘右键的多余的选项：
+**Win+r，输入regedit，后运行打开注册表**
+
+&lt;img width='516' height='274' alt='Image' src='https://github.com/user-attachments/assets/4e9a857c-3576-4c01-8c9b-7f9db067b5b7' /&gt;
+
+---
+打开注册表，这两处
+
+计算机\HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\YunShellExt
+
+和
+
+计算机\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\YunShellExt
+
+删除
+
+&lt;img width='673' height='786' alt='Image' src='https://github.com/user-attachments/assets/9c109e70-334e-4b39-b60a-43e6bf50023e' /&gt;
+
+&lt;img width='400' height='760' alt='Image' src='https://github.com/user-attachments/assets/2446038f-caa1-451e-ae1a-9d98784af014' /&gt;。</description><guid isPermaLink="true">https://shadown7z.github.io/post/bai-du-wang-pan-qu-chu-you-jian-de-duo-yu-xuan-xiang.html</guid><pubDate>Wed, 21 Jan 2026 05:06:05 +0000</pubDate></item><item><title>安卓软件分享：修改手机定位</title><link>https://shadown7z.github.io/post/an-zhuo-ruan-jian-fen-xiang-%EF%BC%9A-xiu-gai-shou-ji-ding-wei.html</link><description>github开源项目：
+https://github.com/noellegazelle6/kail_location
+
+&lt;img width='291' height='647' alt='Image' src='https://github.com/user-attachments/assets/8b763b93-9c26-4cce-a8a4-ced56f06bcb8' /&gt;。</description><guid isPermaLink="true">https://shadown7z.github.io/post/an-zhuo-ruan-jian-fen-xiang-%EF%BC%9A-xiu-gai-shou-ji-ding-wei.html</guid><pubDate>Wed, 21 Jan 2026 03:42:32 +0000</pubDate></item><item><title>模拟器改真机，过检测</title><link>https://shadown7z.github.io/post/mo-ni-qi-gai-zhen-ji-%EF%BC%8C-guo-jian-ce.html</link><description>## 模拟器改真机，过检测
+B站教程：【详细教你怎么把模拟器改真机,防检测】 
+https://www.bilibili.com/video/BV1BfqDBvE44/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489
+
+夸克网盘工具下载：
+https://pan.quark.cn/s/ea078aa86e1b。</description><guid isPermaLink="true">https://shadown7z.github.io/post/mo-ni-qi-gai-zhen-ji-%EF%BC%8C-guo-jian-ce.html</guid><pubDate>Tue, 20 Jan 2026 17:05:41 +0000</pubDate></item><item><title>网站推荐：程序员宝盒</title><link>https://shadown7z.github.io/post/wang-zhan-tui-jian-%EF%BC%9A-cheng-xu-yuan-bao-he.html</link><description>## 推荐一个比较好用的网站：程序员宝盒
+https://www.baoboxs.com/
+
+**该网站收录了许多有用的工具与一些实用的网站**
+
+&lt;img width='1920' height='1080' alt='Image' src='https://github.com/user-attachments/assets/14cd3e67-0b2e-4acc-b83c-5f286a85c3df' /&gt;。</description><guid isPermaLink="true">https://shadown7z.github.io/post/wang-zhan-tui-jian-%EF%BC%9A-cheng-xu-yuan-bao-he.html</guid><pubDate>Tue, 20 Jan 2026 14:58:28 +0000</pubDate></item><item><title>如果有一天你不再寻找爱情，只是去爱......</title><link>https://shadown7z.github.io/post/ru-guo-you-yi-tian-ni-bu-zai-xun-zhao-ai-qing-%EF%BC%8C-zhi-shi-qu-ai-.......html</link><description>**“如果有一天你不再寻找爱情，只是去爱，你不
+再渴望成功，只是去做，你不再追求成长，而是去修养性情。</description><guid isPermaLink="true">https://shadown7z.github.io/post/ru-guo-you-yi-tian-ni-bu-zai-xun-zhao-ai-qing-%EF%BC%8C-zhi-shi-qu-ai-.......html</guid><pubDate>Sun, 18 Jan 2026 14:09:48 +0000</pubDate></item><item><title>分享一个比较好用的重装系统软件：微PE工具箱</title><link>https://shadown7z.github.io/post/fen-xiang-yi-ge-bi-jiao-hao-yong-de-zhong-zhuang-xi-tong-ruan-jian-%EF%BC%9A-wei-PE-gong-ju-xiang.html</link><description># 分享一个比较好用的重装系统软件：微PE工具箱
+**进入下载的官网：**
+https://www.wepe.com.cn/download.html
+
+&lt;img width='1920' height='991' alt='Image' src='https://github.com/user-attachments/assets/db854803-21e5-4b5a-888a-92192a5168f4' /&gt;
+
+---
+
+**点击下载，点击先不捐赠，我们这里演示下载v2.3版本：**
+
+&lt;img width='1004' height='775' alt='Image' src='https://github.com/user-attachments/assets/99cf7f22-212a-4ece-beec-5f482ccb0208' /&gt;
+
+&lt;img width='890' height='478' alt='Image' src='https://github.com/user-attachments/assets/6795d594-4a83-435f-86f3-0addcabc3e65' /&gt;
+
+**点击64位下载后，就会自动给我们进行下载：**
+
+&lt;img width='914' height='228' alt='Image' src='https://github.com/user-attachments/assets/7f404d3c-fa84-4e7c-b550-3a5ae8838eb7' /&gt;
+
+---
+
+**软件教程可以去B站寻找相关：**
+【制作微PE系统安装盘-安装Windows官方纯净系统+永久激活Windows、永久激活office】 
+https://www.bilibili.com/video/BV1PBSpB8E4t/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489。</description><guid isPermaLink="true">https://shadown7z.github.io/post/fen-xiang-yi-ge-bi-jiao-hao-yong-de-zhong-zhuang-xi-tong-ruan-jian-%EF%BC%9A-wei-PE-gong-ju-xiang.html</guid><pubDate>Sun, 18 Jan 2026 03:31:19 +0000</pubDate></item><item><title>四项重装系统必做的备份</title><link>https://shadown7z.github.io/post/si-xiang-zhong-zhuang-xi-tong-bi-zuo-de-bei-fen.html</link><description>因为之前在电脑上什么都装，所以致使现在电脑卡卡的，有时候会蓝屏崩溃，于是乎实在受不了了决定重装一下系统。</description><guid isPermaLink="true">https://shadown7z.github.io/post/si-xiang-zhong-zhuang-xi-tong-bi-zuo-de-bei-fen.html</guid><pubDate>Sun, 18 Jan 2026 03:15:50 +0000</pubDate></item><item><title>OneNote笔记软件教程</title><link>https://shadown7z.github.io/post/OneNote-bi-ji-ruan-jian-jiao-cheng.html</link><description># OneNote笔记软件教程
+对标B站教程：
+【【OneNote教学】这可能是你见过的最全的OneNote教学视频了|完全合并版】 
+https://www.bilibili.com/video/BV1rJ411k7QM/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489
+&gt; 但是并没有全记，只记了一些常用的和笔记重要的
+## 笔记本的创建与逻辑结构
+可以在下图中，看到OneNote的详细逻辑结构。</description><guid isPermaLink="true">https://shadown7z.github.io/post/OneNote-bi-ji-ruan-jian-jiao-cheng.html</guid><pubDate>Sat, 17 Jan 2026 16:08:10 +0000</pubDate></item><item><title>笔记软件推荐OneNote</title><link>https://shadown7z.github.io/post/bi-ji-ruan-jian-tui-jian-OneNote.html</link><description>### 笔记软件推荐OneNote
+ | 整理文献 | 文献管理 | 记实验记录 | 写小论文 | 科研入门 | 个人知识整理 | 笔记
+OneNote支持数位板，且免费，安装Office时自带，可以把笔记导出为PDF
+
+**相关的B站教程：**
+【研0必备 | OneNote多平台免费笔记软件使用技巧&amp;经验总结 | 整理文献 | 文献管理 | 记实验记录 | 写小论文 | 科研入门】 
+https://www.bilibili.com/video/BV1n7tizREf5/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489
+
+【【OneNote教学】这可能是你见过的最全的OneNote教学视频了】 
+https://www.bilibili.com/video/BV1wE411o7mP/?p=2&amp;share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489
+
+【【OneNote教学】这可能是你见过的最全的OneNote教学视频了|完全合并版】 （与上面的视频一样，只不过是合集版）
+https://www.bilibili.com/video/BV1rJ411k7QM/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489
+
+【10个小技巧快速上手OneNote】 https://www.bilibili.com/video/BV1r441127pT/?share_source=copy_web&amp;vd_source=6d7c148a7dc793235e5c6b8a51b3d489
+
+**夸克网盘下载地址**
+OneNote下载：
+https://pan.baidu.com/s/1HXaR7kpeUTh2LmojVi4Hbg?pwd=0919
+Office2016下载：
+https://pan.quark.cn/s/3d347b6e256a
+OneNote插件：
+链接：https://pan.quark.cn/s/fad410f27a12
+提取码：Gsda
+
+&lt;img width='1920' height='841' alt='Image' src='https://github.com/user-attachments/assets/9e895414-3c7b-4bd2-a4a6-df0eaa464b29' /&gt;
+
+&lt;img width='1648' height='786' alt='Image' src='https://github.com/user-attachments/assets/512d7300-2627-4747-9e13-df520009c58a' /&gt;。</description><guid isPermaLink="true">https://shadown7z.github.io/post/bi-ji-ruan-jian-tui-jian-OneNote.html</guid><pubDate>Sat, 17 Jan 2026 13:14:07 +0000</pubDate></item><item><title>无需U盘重装系统的软件</title><link>https://shadown7z.github.io/post/wu-xu-U-pan-zhong-zhuang-xi-tong-de-ruan-jian.html</link><description>推荐一个无需U盘重装系统的软件，软件后面大概率应该会强制付费，不过也可以作为一个重装系统的候选
+系统重装管家
+https://j.xlb-growth.com/0WSm0。</description><guid isPermaLink="true">https://shadown7z.github.io/post/wu-xu-U-pan-zhong-zhuang-xi-tong-de-ruan-jian.html</guid><pubDate>Fri, 16 Jan 2026 02:58:34 +0000</pubDate></item><item><title>录屏软件推荐</title><link>https://shadown7z.github.io/post/lu-ping-ruan-jian-tui-jian.html</link><description>推荐几个实用的录屏软件：
+
+1.Cap
+Github开源的一个录屏软件项目，界面简洁欸，UI比较好，最重要的是它免费！
+https://github.com/CapSoftware/Cap
+上面是它的github开源的地址
+
+2.Bandicam
+老牌的录屏软件，这软件好像十年前就在了，之前用过，现在也在用，也是非常的好用
+就算需要付费。</description><guid isPermaLink="true">https://shadown7z.github.io/post/lu-ping-ruan-jian-tui-jian.html</guid><pubDate>Thu, 15 Jan 2026 11:36:31 +0000</pubDate></item><item><title>Plan for 2026</title><link>https://shadown7z.github.io/post/Plan%20for%202026.html</link><description>### 2026年的计划
+- [ ] 跑一次马拉松
+- [x] ！学习高等数学
+- [ ] ！2026年上半年的自考本4科（高数、英语、马克思、近现代史）全部及格
+- [ ] ！2026年下八年的自考本4科全部及格
+- [x] 学习教育心理学
+- [ ] 学习NLP执行师的内容
+- [ ] 学习NLP高级执行师的内容
+- [ ] 学习NLP导师的内容
+- [ ] 学习无限制格斗
+- [ ] 把《大家的日语》初级和中级全套学完,（如果有精力考取N4或N3证书）
+- [ ] 学习或考取HCIA证书
+- [ ] 学习或考取HCIP证书
+- [ ] 学习HCIE证书的相关知识（如果精力和经济充足，就考取HCIE证书）
+- [ ] 学习软件逆向（小迪软件逆向）
+- [ ] 学习游戏逆向
+- [ ] 学习手游逆向
+- [ ] 学习Android逆向
+- [ ] 学习搞机
+- [ ] 学习Linux源码
+- [ ] 在Linux的基础上开发一个自己的系统
+- [ ] 学习Java后端开发（学完黑马程序员课程）
+- [ ] 精通Java后端开发（开发啃透几个Java项目）
+- [ ] 学习WireShark
+- [ ] 重新学习大数据技术
+- [ ] 学习Python爬虫
+- [ ] ！学习离散数学
+- [ ] ！学习线性代数
+- [ ] ！学习概率论与统计
+- [ ] ！学习Python人工智能
+- [ ] 学习Python大数据技术
+- [ ] 学习云计算运维
+- [ ] 学习网络技术
+- [ ] 学习网络安全
+- [ ] 学习软件测试
+- [ ] 学习PySide6
+- [ ] 学习汇编语言
+- [ ] 学习Winhex
+- [ ] ！CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过50篇
+- [ ] ！CSDN、稀土掘金、博客园、Dev、Medium等社区发布计算机文章超过100篇
+- [ ] 学习英语词根
+- [ ] 学习英语词缀（前后缀）
+- [ ] 学习英语
+- [ ] 学习新概念英语1
+- [ ] 学习新概念英语2
+- [ ] 学习新概念英语3
+- [ ] 学习新概念英语4
+- [ ] 2026年上半年四级600分或以上
+- [ ] ！英语词汇量破1万（默默背单词）
+- [ ] 练汉字
+- [ ] 练英文字
+- [ ] 学习配音
+- [ ] 学习伪音
+- [ ] 学习播音
+- [ ] 学习唱歌
+- [ ] 学习魔术
+- [ ] 学习PS
+- [ ] 学习数学竞赛相关的内容，并查找往年的比赛题目进行练习
+- [ ] ！LeetCode解题数过2000
+- [ ] ！LeetCode解题数过4000
+- [ ] ！刷一遍LeetCode热题HOT 100
+- [ ] ！二刷一遍LeetCode热题HOT 100
+- [ ] ！拥有一个Github几千的和人工智能或算法相关的高star项目
+- [ ] ！参加Kaggle、CodeforcesRound（CF）、AtCoder、Tianchi等算法比赛获得不错的名次
+- [ ] 以上的所有全部完成或在2026年年末，列出2027年的计划
+- [ ] 其他：学习嵌入式开发、学习德语、学习俄语、复刻github开源项目xlerobot。</description><guid isPermaLink="true">https://shadown7z.github.io/post/Plan%20for%202026.html</guid><pubDate>Wed, 14 Jan 2026 06:21:52 +0000</pubDate></item><item><title>无聊才能让你的人生有意义</title><link>https://shadown7z.github.io/post/wu-liao-cai-neng-rang-ni-de-ren-sheng-you-yi-yi.html</link><description>### 无聊才能让你的人生有意义
+来自哈佛大学心理学教授Dr. Arthur Brooks的Youtube视频：https://youtu.be/orQKfIXMiA8?si=s38E0IvT06GDCSP7
+
+视频中所讲的无聊并不是摆烂，有点类似于会让你进入一种冥想的状态。</description><guid isPermaLink="true">https://shadown7z.github.io/post/wu-liao-cai-neng-rang-ni-de-ren-sheng-you-yi-yi.html</guid><pubDate>Wed, 14 Jan 2026 03:14:56 +0000</pubDate></item><item><title>如何去学习一门新的学科</title><link>https://shadown7z.github.io/post/ru-he-qu-xue-xi-yi-men-xin-de-xue-ke.html</link><description>如何去学习一门新的学科?
+学之前先问自己三个问题：
+
+**1.这个学科要解决什么问题？
+2.前人是用什么工具解决的？
+3.这些工具的本质是什么**
+比如学英语，问题是沟通，工具是单词和语法，这些工具的本质是语言的底层逻辑
+![Image](https://github.com/user-attachments/assets/22f6b7dc-9bf4-4280-9303-c3534fe7d051)
+![Image](https://github.com/user-attachments/assets/ea17aeed-6ad8-4289-a584-47b5e2e2666a)
+
+总体的步骤：
+一、学习这个学科前上面的的三问
+二、费曼学习法
+每学一个新理论，假装向一个12岁的小孩解释。</description><guid isPermaLink="true">https://shadown7z.github.io/post/ru-he-qu-xue-xi-yi-men-xin-de-xue-ke.html</guid><pubDate>Tue, 06 Jan 2026 14:22:10 +0000</pubDate></item><item><title>B站高中课程，网课老师自学推荐</title><link>https://shadown7z.github.io/post/B-zhan-gao-zhong-ke-cheng-%EF%BC%8C-wang-ke-lao-shi-zi-xue-tui-jian.html</link><description>B站高中所有科目老师网课推荐:
+
+语文:
+学过石油的语文老师
+(讲课生动有趣，不枯燥)
+陈焕文老师
+(拔高型老师，拔尖提升)
+
+数学:
+赵礼显老师
+(课程体系完善，适合自学，单课程时长长，例题多，也适合拔尖提升)
+一数
+(单个知识点的爆破王，适合预习也适合复习，如果你在学校没听懂，一数会给你抛开揉碎了讲明白)
+
+英语:
+刘晓艳老师
+(刘晓燕老师的单词课，非常无痛背单词，是和数理化题做累了去听一下单词课，语法课需要具备一定量的英语语法基础)
+FREE高考英语
+(高考英语真题的做题方法及技巧，思维路径优化，拔高提升)
+无印(抖音或B站搜索)
+(作为素材积累，英语学习方法)
+
+化学:
+化学老师李政
+(不管你是什么基础都可以看)
+
+历史:
+刘勖雯政史地
+(历史做题技巧)
+
+地理:
+张艳平地理
+(构建一个完整的知识体系，知识点通透，题目讲得好，整理笔记，每周拿3小时时间去听老师复盘做题讲课)
+羊羊的地理教室
+(以动画的形式讲解地理，地理名词可视化，简洁凝练，通俗易懂)
+
+物理:
+黄夫人高中物理
+(无论你处在什么阶段，无脑听黄夫人)
+北大学长跳跳
+(把复杂的物理题讲的通俗易懂，如果你苦于没有做题思路，可以去B站找他)
+夏梦迪-高考物理
+(拔高提升，适合有中高基础的)
+
+化学:
+李政老师
+(不管你是什么基础都可以看)
+一化儿
+(硬核化学老师)
+清越姐姐的化学课
+(声音温柔动听，适合零基础)
+
+。</description><guid isPermaLink="true">https://shadown7z.github.io/post/B-zhan-gao-zhong-ke-cheng-%EF%BC%8C-wang-ke-lao-shi-zi-xue-tui-jian.html</guid><pubDate>Tue, 06 Jan 2026 14:15:24 +0000</pubDate></item><item><title>AI辅助学习一个新领域2026.1.6</title><link>https://shadown7z.github.io/post/AI-fu-zhu-xue-xi-yi-ge-xin-ling-yu-2026.1.6.html</link><description>AI辅助学习一个新领域：
+
+一、多平台对比课程目录，找到高频知识点
+二、让AI规划21天学习路径，拆解任务
+三、实战输出，用费曼学习法检验学习成果
+
+AI是学习助手，掌握技能关键靠自己动手
+会学习比学什么更重要。</description><guid isPermaLink="true">https://shadown7z.github.io/post/AI-fu-zhu-xue-xi-yi-ge-xin-ling-yu-2026.1.6.html</guid><pubDate>Tue, 06 Jan 2026 14:13:53 +0000</pubDate></item><item><title>英语阅读理解学习方法2026.1.6</title><link>https://shadown7z.github.io/post/ying-yu-yue-du-li-jie-xue-xi-fang-fa-2026.1.6.html</link><description>英语学习方法:
+
+做阅读理解时，把每个生词在这篇阅读理解中的意思标注出来，把生词背两遍。</description><guid isPermaLink="true">https://shadown7z.github.io/post/ying-yu-yue-du-li-jie-xue-xi-fang-fa-2026.1.6.html</guid><pubDate>Tue, 06 Jan 2026 14:06:04 +0000</pubDate></item><item><title>收录了一些常用的软件 </title><link>https://shadown7z.github.io/post/shou-lu-le-yi-xie-chang-yong-de-ruan-jian-%20.html</link><description># 软件包括：
+Evething
+Snipaste
+Typora
+Xmind
+Mindnow
+Xftp
+Xshell
+Anaconda
+Pycharm2024.1.7
+Clash.Verge
+PotPlayer
+7z
+BaiduNetdisk
+Vscode
+QQ
+QuickCloudDrive
+WeChat
+
+夸克网盘：
+CommonSoftware.zip
+https://pan.quark.cn/s/d64c6fdbe156。</description><guid isPermaLink="true">https://shadown7z.github.io/post/shou-lu-le-yi-xie-chang-yong-de-ruan-jian-%20.html</guid><pubDate>Wed, 24 Dec 2025 15:12:36 +0000</pubDate></item><item><title>Hello world</title><link>https://shadown7z.github.io/post/Hello%20world.html</link><description>Hello world。</description><guid isPermaLink="true">https://shadown7z.github.io/post/Hello%20world.html</guid><pubDate>Wed, 24 Dec 2025 15:08:21 +0000</pubDate></item></channel></rss>
